@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/practice-reactjs/static/js/main.ede6d2d0.js",
+    "index.html": "/practice-reactjs/index.html",
+    "main.ede6d2d0.js.map": "/practice-reactjs/static/js/main.ede6d2d0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ede6d2d0.js"
+  ]
+}
